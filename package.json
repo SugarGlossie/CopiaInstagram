@@ -1,0 +1,19 @@
+{
+  "name": "copiainstagram",
+  "version": "0.1.0",
+  "description": "Copia de Instagram para CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SugarGlossie/CopiaInstagram.git"
+  },
+  "author": "SugarGlossie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SugarGlossie/CopiaInstagram/issues"
+  },
+  "homepage": "https://github.com/SugarGlossie/CopiaInstagram#readme"
+}
