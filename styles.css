@@ -1,12 +1,33 @@
-main {
-
+body{
+    /*display: grid;
+    grid-template-columns: 224px auto 319px;*/
+}
+.principal {
+    background-color: rgb(18, 18, 18);
+    color: aliceblue;
+    height: 100vh;
+    width: calc(100vw - 224px);
+    outline: 1px solid blue;
+    margin-left: 224px;
+    display: grid;
+    grid-template-columns: auto 319px;
+}
+aside{
+    width: 100%;
+}
+main{
+    width: 100%;
 }
 nav{
     background-color: black;
     color: aliceblue;
-
+    height: 100vh;
+    width: 224px;
+    outline: 1px solid darkgoldenrod;
+    position: fixed;
 }
 nav button{
     background-color: black;
     color: aliceblue;
+
 }
